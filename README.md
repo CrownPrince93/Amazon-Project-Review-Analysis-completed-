@@ -9,3 +9,7 @@ Client Name: RetailTech Insights
 Industry: E-commerce Analytics
 Role: Junior Data Analyst
 Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, Slicers, Cards)
+
+# Objective 
+
+Analyze Amazon product and review data to derive business insights using pivot tables, slicers, calculated columns, and data visualizations.
